@@ -61,3 +61,9 @@ When the game is over because you or your opponent died, or took a treasure to t
 	"result" : "won" // won, lost or draw
 }
 ```
+
+# rebug client
+move in a spiral
+remember the map on the way
+calculate shortest path to treasure as soon as it is insight
+calculate shortest return path with map
