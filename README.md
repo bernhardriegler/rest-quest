@@ -123,6 +123,7 @@ When the game is over because you or your opponent died, or took a treasure to t
 }
 ```
 
+<<<<<<< HEAD
 <<<<<<< 5233c2d16bcac2c35f0729773bb7dcd64889a018
 ## Benchmarking
 
@@ -149,9 +150,31 @@ client performed at the end of the game.
 * vastly improved logging
 * improved documentation
 =======
+=======
+>>>>>>> 9e294bc79349845363efd73412fc0a6a9f23db8c
 # rebug client
 move in a spiral
 remember the map on the way
 calculate shortest path to treasure as soon as it is insight
 calculate shortest return path with map
+<<<<<<< HEAD
 >>>>>>> some words on the logic used by rebug client
+=======
+
+# how to run
+```
+# start server
+npm install
+node server.js
+```
+you may now open the server address in your browser (default: http://localhost:3000)
+```
+# new shell start first client
+npm clientRebug.js
+# new shell start second client
+npm clientRebug.js
+```
+
+## fighting with other clients?
+change playername and server address in clientRebug.js
+>>>>>>> 9e294bc79349845363efd73412fc0a6a9f23db8c
