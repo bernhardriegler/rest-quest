@@ -67,3 +67,18 @@ move in a spiral
 remember the map on the way
 calculate shortest path to treasure as soon as it is insight
 calculate shortest return path with map
+
+# how to run
+```
+# start server
+npm install
+node server.js
+```
+you may now open the server address in your browser (default: http://localhost:3000)
+```
+# new shell start first client
+npm clientRebug.js
+# new shell start second client
+npm clientRebug.js
+```
+
