@@ -149,8 +149,6 @@ client performed at the end of the game.
 * added think time calculation
 * vastly improved logging
 * improved documentation
-=======
-=======
 # rebug client
 move in a spiral
 remember the map on the way
@@ -159,4 +157,3 @@ calculate shortest return path with map
 
 ## fighting with other clients?
 change playername and server address in clientRebug.js
->>>>>>> 9e294bc79349845363efd73412fc0a6a9f23db8c
