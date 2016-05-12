@@ -123,6 +123,7 @@ When the game is over because you or your opponent died, or took a treasure to t
 }
 ```
 
+<<<<<<< 5233c2d16bcac2c35f0729773bb7dcd64889a018
 ## Benchmarking
 
 To run benchmarks against your client, run:
@@ -147,3 +148,10 @@ client performed at the end of the game.
 * added think time calculation
 * vastly improved logging
 * improved documentation
+=======
+# rebug client
+move in a spiral
+remember the map on the way
+calculate shortest path to treasure as soon as it is insight
+calculate shortest return path with map
+>>>>>>> some words on the logic used by rebug client
