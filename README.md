@@ -82,3 +82,5 @@ npm clientRebug.js
 npm clientRebug.js
 ```
 
+## fighting with other clients?
+change playername and server address in clientRebug.js
