@@ -135,7 +135,7 @@ Where mapNumber is an integer corresponding to a mapX.js file in
 the benchmark folder, i.e `node benchmark -2` will load `map2.js`.
 
 The benchmark uses a hard-coded map and outputs stats about how your
-client performed at the end of the game. 
+client performed at the end of the game.
 
 # Changelog
 
@@ -151,29 +151,11 @@ client performed at the end of the game.
 * improved documentation
 =======
 =======
->>>>>>> 9e294bc79349845363efd73412fc0a6a9f23db8c
 # rebug client
 move in a spiral
 remember the map on the way
 calculate shortest path to treasure as soon as it is insight
 calculate shortest return path with map
-<<<<<<< HEAD
->>>>>>> some words on the logic used by rebug client
-=======
-
-# how to run
-```
-# start server
-npm install
-node server.js
-```
-you may now open the server address in your browser (default: http://localhost:3000)
-```
-# new shell start first client
-npm clientRebug.js
-# new shell start second client
-npm clientRebug.js
-```
 
 ## fighting with other clients?
 change playername and server address in clientRebug.js
